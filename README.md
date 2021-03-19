@@ -1,5 +1,5 @@
 # ansible-docker-image
-## This ansible playbook used to creating a docker image and push that image to the dockerhub registry.
+## This ansible playbook used to create a docker image and push that image to the dockerhub registry.
 vim docker-image.yaml
 ```
 ---
